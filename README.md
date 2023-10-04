@@ -1,7 +1,4 @@
-Welcome to the META React JS interview.
-
-Your task is to build a transfer list component.
-
+Mock React Tech Challenge
 A transfer list allows users to pass items from one list to another.
 UX has provided a mock up.
 
